@@ -1,4 +1,4 @@
 # test
 abc
 
-dev1 edited
+dev1 merge
